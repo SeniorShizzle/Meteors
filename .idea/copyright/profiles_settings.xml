@@ -1,0 +1,10 @@
+<component name="CopyrightManager">
+  <settings default="Esteban Valle">
+    <module2copyright>
+      <element module="All" copyright="Esteban Valle" />
+    </module2copyright>
+    <LanguageOptions name="__TEMPLATE__">
+      <option name="block" value="false" />
+    </LanguageOptions>
+  </settings>
+</component>
